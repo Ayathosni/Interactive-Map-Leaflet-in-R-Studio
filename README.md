@@ -2,6 +2,7 @@
 Interactive Map Created with Leaflet in R-Studio
 Johns Hopkins Data Science Certification - Data Products Course Project for Week 2
 Project Requirements:
+
 ~~~~~~
 Instructions
 
