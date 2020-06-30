@@ -1,7 +1,6 @@
 ---
 title: "Interactive Map with Leaflet (Johns Hopkins University Data Science Certification: Data Products Course Project)"
-author: "MD Alamgir Ph.D."
-date: "January 29, 2017"
+
 output: html_document
 ---
 
